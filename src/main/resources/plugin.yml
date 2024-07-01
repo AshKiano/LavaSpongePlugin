@@ -1,0 +1,5 @@
+name: LavaSpongePlugin
+version: '${project.version}'
+main: lavaspongeplugin.lavaspongeplugin.LavaSpongePlugin
+api-version: 1.16
+authors: [ AshKiano ]
